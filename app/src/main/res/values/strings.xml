@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practica3b</string>
+    <string name="color">color</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="rojo">Rojo</string>
 </resources>

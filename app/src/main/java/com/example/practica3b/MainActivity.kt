@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         }
             override fun onStartTrackingTouch(seekBar: SeekBar) {}
             override fun onStopTrackingTouch(seekBar: SeekBar) {}
+
         }
         sb.setOnSeekBarChangeListener(osbcl)
         sb2.setOnSeekBarChangeListener(osbcl)
